@@ -1,4 +1,4 @@
-# Colorization Project 
+# Colorization Of B/W Images Using DNNs
 ## Overview
 Welcome to the Colorization Project! This project focuses on the development of a colorization model using a variety of powerful libraries and techniques. We leverage the capabilities of Numpy, Pandas, PyTorch, and Matplotlib to enhance our understanding of colorization processes and achieve remarkable outcomes.
 
