@@ -17,8 +17,8 @@ Utilized for visualizing colorization outcomes, representing colorized images, a
 
 ## Project Milestones
 ### Week 1: MNIST Dataset and Linear Model
-Loaded, preprocessed, and augmented MNIST datasets using Numpy and PyTorch.
-Trained a model with Linear layers achieving an accuracy of 89% in colorization.
+Loaded, preprocessed, and augmented MNIST dataset using Numpy and PyTorch.
+Trained a model with Linear layers achieving an accuracy of 89% in recognition of handwritten digits.
 ### Week 2: CNN Implementation and Advanced Techniques
 Implemented a CNN using PyTorch for improved feature extraction and model performance.
 Explored custom loss functions, focusing on perceptual losses for colorization.
