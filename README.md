@@ -2,19 +2,6 @@
 ## Overview
 Welcome to the Colorization Project! This project focuses on the development of a colorization model using a variety of powerful libraries and techniques. We leverage the capabilities of Numpy, Pandas, PyTorch, and Matplotlib to enhance our understanding of colorization processes and achieve remarkable outcomes.
 
-## Key Technologies Used
-### Numpy
-Learned for efficient numerical operations and array manipulation crucial for preprocessing in the colorization project.
-
-### Pandas
-Adopted for streamlined data handling, offering a robust solution for loading, cleaning, and preparing datasets.
-
-### PyTorch
-Gained proficiency in PyTorch, a foundational tool for creating and training our colorization model.
-
-### Matplotlib
-Utilized for visualizing colorization outcomes, representing colorized images, and displaying performance metrics.
-
 ## Project Milestones
 ### Week 1: MNIST Dataset and Linear Model
 Loaded, preprocessed, and augmented MNIST dataset using Numpy and PyTorch.
