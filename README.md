@@ -27,9 +27,9 @@ Introduced transfer learning for future model development.
 Implemented batch normalization techniques to stabilize training and address gradient-related issues.
 Achieved an impressive accuracy of over 96% on the MNIST dataset using advanced techniques.
 ### Week 4: Research Paper Exploration and Model Iterations
-Studied a Medium article by Emil Wallner on Colorize B&W Photos with a 100-line Neural Network.
+Studied a Medium article by Emil Wallner on [Colorize B&W Photos with a 100-line Neural Network](https://emilwallner.medium.com/colorize-b-w-photos-with-a-100-line-neural-network-53d9b4449f8d).
 Understood Convolutional Autoencoder architecture, a crucial concept for subsequent implementation phases.
-Explored a research paper on the colorization of black and white images for valuable insights.
+Explored a [research paper](https://emilwallner.medium.com/colorize-b-w-photos-with-a-100-line-neural-network-53d9b4449f8d) on the colorization of black and white images for valuable insights.
 ## Model Iterations
 ### Alpha Model
 Trained a proof-of-concept model on a single image using autoencoders, demonstrating significant success in image retrieval.
